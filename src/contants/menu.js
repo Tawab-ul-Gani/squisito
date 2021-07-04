@@ -397,7 +397,7 @@ export const menu = [
   },
   {
     dishname: "Peri Peri Fries",
-    description: "",
+    description: "Fries Sprinkled with a Peri Peri Spice Mix",
     details: [
       {
         size: "small",
@@ -411,7 +411,8 @@ export const menu = [
   },
   {
     dishname: "Chicken Nuggets",
-    description: "",
+    description:
+      "Flavoured Minced Chicken formed into bite sized portions and fried",
     details: [
       {
         size: "small",
@@ -425,7 +426,8 @@ export const menu = [
   },
   {
     dishname: "Loaded Fries",
-    description: "",
+    description:
+      "Fries topped with Shredded Roast Chicken, Cheesy Dip and Melted Cheese",
     details: [
       {
         size: "small",
