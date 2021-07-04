@@ -25,7 +25,7 @@ import {
   GooglePlayLogo,
   MapLogo,
 } from "./styles";
-import logo from "../../../public/squisito-logo.svg";
+import logo from "../../../public/squisito.svg";
 import moneylogo from "../../../public/money.svg";
 import { menu } from "../../contants/menu";
 
