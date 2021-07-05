@@ -1,6 +1,6 @@
 export const menu = [
   {
-    dishname: "Plain Cheese",
+    dishname: "Plain Cheese Pizza",
     description: "Pizza Sauce and Cheese",
     details: [
       {
@@ -18,7 +18,7 @@ export const menu = [
     ],
   },
   {
-    dishname: "Margherita",
+    dishname: "Margherita Pizza",
     description: "Tomato Slices and Basil",
     details: [
       {
@@ -36,7 +36,7 @@ export const menu = [
     ],
   },
   {
-    dishname: "Simple Veg",
+    dishname: "Simple Veg Pizza",
     description: "Onion, Capsicum and Tomatoes",
     details: [
       {
@@ -54,7 +54,7 @@ export const menu = [
     ],
   },
   {
-    dishname: "Baby Corn",
+    dishname: "Baby Corn Pizza",
     description: "Baby Corn, Capsicum, Mushroom and Olives",
     details: [
       {
@@ -72,7 +72,7 @@ export const menu = [
     ],
   },
   {
-    dishname: "Peri Peri Paneer",
+    dishname: "Peri Peri Paneer Pizza",
     description: "Paneer in a peri peri spice mix, Jalapenos, Capsicum",
     details: [
       {
@@ -90,7 +90,7 @@ export const menu = [
     ],
   },
   {
-    dishname: "Schezwan Paneer",
+    dishname: "Schezwan Paneer Pizza",
     description:
       "Paneer in a Schezwan Sauce, Baby Corn, Jalapenos, Capsicum, Green Chillies and Onion",
     details: [
@@ -109,7 +109,7 @@ export const menu = [
     ],
   },
   {
-    dishname: "Barbeque Paneer",
+    dishname: "Barbeque Paneer Pizza",
     description: "Barbeque Paneer, Capsicum and Onion",
     details: [
       {
@@ -146,7 +146,7 @@ export const menu = [
     ],
   },
   {
-    dishname: "Chicken Blast",
+    dishname: "Chicken Blast Pizza",
     description: "Spicy Chicken and Cheese",
     details: [
       {
@@ -164,7 +164,7 @@ export const menu = [
     ],
   },
   {
-    dishname: "Roast Chicken",
+    dishname: "Roast Chicken Pizza",
     description: "Roasted Chicken and Cheese",
     details: [
       {
@@ -182,7 +182,7 @@ export const menu = [
     ],
   },
   {
-    dishname: "Schezwan Chicken",
+    dishname: "Schezwan Chicken Pizza",
     description:
       "Chicken in a Schezwan Sauce, Baby Corn, Jalapenos, Capsicum, Green Chillies and Onions",
     details: [
@@ -201,7 +201,7 @@ export const menu = [
     ],
   },
   {
-    dishname: "Barbeque Chicken",
+    dishname: "Barbeque Chicken Pizza",
     description: "Barbeque Chicken, Capsicum and Onions",
     details: [
       {
@@ -219,7 +219,7 @@ export const menu = [
     ],
   },
   {
-    dishname: "Peri Peri Chicken",
+    dishname: "Peri Peri Chicken Pizza",
     description: "Chicken in a Peri Peri Spice Mix, Jalapenos and Capsicum",
     details: [
       {
@@ -237,7 +237,7 @@ export const menu = [
     ],
   },
   {
-    dishname: "Mutton Kebab",
+    dishname: "Mutton Kebab Pizza",
     description: "Chopped up Mutton Kebab, Capsicum, Onion and Green Chillies",
     details: [
       {
@@ -255,7 +255,7 @@ export const menu = [
     ],
   },
   {
-    dishname: "Hot Chicken",
+    dishname: "Hot Chicken Pizza",
     description: "Chicken, Capsicum, Onion, Green Chillies and Chilli Flakes",
     details: [
       {
@@ -273,7 +273,7 @@ export const menu = [
     ],
   },
   {
-    dishname: "Butter Chicken",
+    dishname: "Butter Chicken Pizza",
     description: "Chicken Cooked in a Butter Gravy with Coriander",
     details: [
       {
@@ -291,7 +291,7 @@ export const menu = [
     ],
   },
   {
-    dishname: "Chicken Delight",
+    dishname: "Chicken Delight Pizza",
     description: "Chicken Salami and Chicken Sausage",
     details: [
       {
@@ -309,7 +309,7 @@ export const menu = [
     ],
   },
   {
-    dishname: "Squisito Special",
+    dishname: "Squisito Special Pizza",
     description:
       "Schezwan Chicken, Olives, Capsicum, Jalapenos, Chicken Salami, Baby Corn, Mushroom and Green Chillies",
     details: [
@@ -328,7 +328,7 @@ export const menu = [
     ],
   },
   {
-    dishname: "Chicken Overload",
+    dishname: "Chicken Overload Pizza",
     description: "Roast Chicken, Chicken Salami, Chicken Sausage",
     details: [
       {
@@ -346,7 +346,7 @@ export const menu = [
     ],
   },
   {
-    dishname: "Chicken Tikka",
+    dishname: "Chicken Tikka Pizza",
     description: "Chicken Tikka and Coriander",
     details: [
       {
@@ -364,7 +364,7 @@ export const menu = [
     ],
   },
   {
-    dishname: "Mexicana",
+    dishname: "Mexicana Pizza",
     description: "Hot Chicken, Mushroom, Chicken Salami, Capsicum, Jalapenos",
     details: [
       {
