@@ -499,7 +499,7 @@ export const menu = [
   },
   {
     dishname: "Chicken Penne Alfredo",
-    description: "Penne Cooked in a Red Sauce with Onions and Capsicums",
+    description: "Penne Cooked in a White Sauce with Onions and Capsicums",
     details: [
       {
         size: "small",
