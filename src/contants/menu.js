@@ -278,15 +278,15 @@ export const menu = [
     details: [
       {
         size: "small",
-        price: "300",
+        price: "330",
       },
       {
         size: "medium",
-        price: "490",
+        price: "510",
       },
       {
         size: "large",
-        price: "650",
+        price: "660",
       },
     ],
   },
