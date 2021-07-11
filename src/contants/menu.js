@@ -1,7 +1,7 @@
 export const menu = [
   {
     dishname: "Plain Cheese Pizza",
-    description: "Pizza Sauce and Cheese",
+    description: "Butter and Cheese",
     details: [
       {
         size: "small",
@@ -50,24 +50,6 @@ export const menu = [
       {
         size: "large",
         price: "480",
-      },
-    ],
-  },
-  {
-    dishname: "Baby Corn Pizza",
-    description: "Baby Corn, Capsicum, Mushroom and Olives",
-    details: [
-      {
-        size: "small",
-        price: "260",
-      },
-      {
-        size: "medium",
-        price: "440",
-      },
-      {
-        size: "large",
-        price: "600",
       },
     ],
   },
@@ -165,19 +147,19 @@ export const menu = [
   },
   {
     dishname: "Roast Chicken Pizza",
-    description: "Roasted Chicken and Cheese",
+    description: "Roasted Chicken, Olives and Cheese",
     details: [
       {
         size: "small",
-        price: "200",
+        price: "220",
       },
       {
         size: "medium",
-        price: "370",
+        price: "380",
       },
       {
         size: "large",
-        price: "520",
+        price: "530",
       },
     ],
   },
@@ -274,7 +256,7 @@ export const menu = [
   },
   {
     dishname: "Butter Chicken Pizza",
-    description: "Chicken Cooked in a Butter Gravy with Coriander",
+    description: "Chicken Cooked in a Butter Chicken Paste with Cashews and Coriander",
     details: [
       {
         size: "small",
@@ -329,7 +311,7 @@ export const menu = [
   },
   {
     dishname: "Chicken Overload Pizza",
-    description: "Roast Chicken, Chicken Salami, Chicken Sausage",
+    description: "Roast Chicken, Chicken Salami, Chicken Sausage and Olives",
     details: [
       {
         size: "small",
@@ -421,21 +403,6 @@ export const menu = [
       {
         size: "large",
         price: "140",
-      },
-    ],
-  },
-  {
-    dishname: "Loaded Fries",
-    description:
-      "Fries topped with Shredded Roast Chicken, Cheesy Dip and Melted Cheese",
-    details: [
-      {
-        size: "small",
-        price: "140",
-      },
-      {
-        size: "large",
-        price: "170",
       },
     ],
   },
