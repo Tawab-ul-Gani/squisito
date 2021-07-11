@@ -561,6 +561,30 @@ export const menu = [
       }
     ]
   },
+  {
+    dishname: "Chicken Burger",
+    description: "",
+    details: [
+      {
+        size: "single",
+        price: "139",
+      },
+      {
+        size: "double",
+        price: "189",
+      },
+      {
+    dishname: "Zinger Burger",
+    description: "",
+    details: [
+      {
+        size: "single",
+        price: "159",
+      },
+      {
+        size: "medium",
+        price: "219",
+      },
 {
     "dishname": "Chicken Popcorn",
     "description": "Popcorn",
