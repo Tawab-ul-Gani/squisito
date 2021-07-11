@@ -456,7 +456,7 @@ export const menu = [
     "details":
     [
       {
-      "price" "129"
+      price: "129"
         
       }
     ]
@@ -467,7 +467,7 @@ export const menu = [
     "details":
     [
       {
-       "price" "129"
+       price: "129"
       }
     ]
   },
@@ -477,7 +477,7 @@ export const menu = [
     "details":
     [
       {
-        "price" "119"
+        price: "119"
       }
     ]
   },
