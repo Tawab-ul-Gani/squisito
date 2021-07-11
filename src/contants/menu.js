@@ -526,18 +526,4 @@ export const menu = [
       },
     ],
   },
-  {
-    dishname: "Fried Chicken",
-    description: "Fried Chiclen",
-    details: [
-      {
-        size: "small",
-        price: "200",
-      },
-      {
-        size: "large",
-        price: "330",
-      },
-    ],
-  },
 ];
