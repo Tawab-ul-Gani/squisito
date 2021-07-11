@@ -577,14 +577,14 @@ export const menu = [
   },
       {
     dishname: "Zinger Burger",
-    description: "",
+    description: "Spicy Chicken Burger",
     details: [
       {
         size: "single",
         price: "159",
       },
       {
-        size: "medium",
+        size: "double",
         price: "219",
       },
       ]
