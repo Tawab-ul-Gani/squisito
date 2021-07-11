@@ -610,11 +610,11 @@ export const menu = [
     details: [
       {
         size: "small",
-        price: "65",
+        price: "69",
       },
       {
         size: "large",
-        price: "90",
+        price: "99",
       },
     ],
   },
@@ -628,7 +628,7 @@ export const menu = [
       },
       {
         size: "large",
-        price: "95",
+        price: "105",
       },
     ],
   },
@@ -639,11 +639,11 @@ export const menu = [
     details: [
       {
         size: "small",
-        price: "90",
+        price: "89",
       },
       {
         size: "large",
-        price: "140",
+        price: "139",
       },
     ],
   },
