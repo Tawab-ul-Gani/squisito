@@ -364,49 +364,6 @@ export const menu = [
     ],
   },
   {
-    dishname: "French Fries",
-    description: "",
-    details: [
-      {
-        size: "small",
-        price: "65",
-      },
-      {
-        size: "large",
-        price: "90",
-      },
-    ],
-  },
-  {
-    dishname: "Peri Peri Fries",
-    description: "Fries Sprinkled with a Peri Peri Spice Mix",
-    details: [
-      {
-        size: "small",
-        price: "75",
-      },
-      {
-        size: "large",
-        price: "95",
-      },
-    ],
-  },
-  {
-    dishname: "Chicken Nuggets",
-    description:
-      "Flavoured Minced Chicken formed into bite sized portions and fried",
-    details: [
-      {
-        size: "small",
-        price: "90",
-      },
-      {
-        size: "large",
-        price: "140",
-      },
-    ],
-  },
-  {
     dishname: "Penne Alfredo",
     description: "Penne Cooked in a White Sauce with Onions and Capsicums",
     details: [
@@ -490,6 +447,175 @@ export const menu = [
       {
         size: "large",
         price: "320",
+      },
+    ],
+  },
+  {
+    "dishname": "Tandoori Chicken Wrap ",
+    "description": "Tandoori Chicken and Veggies",
+    "details":
+    [
+      {
+      "price": "129"
+        
+      }
+    ]
+  },
+  {
+    "dishname": "Mexican Wrap",
+    "description": "Chicken Cooked in Mexican Sauce with Veggies",
+    "details":
+    [
+      {
+       "price": "129"
+      }
+    ]
+  },
+  {
+    "dishname": "Chicken Tikka Wrap",
+    "description": "Chicken Tikka and Veggies",
+    "details":
+    [
+      {
+        "price": "119"
+      }
+    ]
+  },
+  {
+    "dishname": "Chicken Bucket",
+    "description": "Fried Chicken",
+    "details":
+    [
+      {
+        "size": "Small (2 pieces)", "price": "139"
+        
+      },
+      {
+        "size": "Medium (4 pieces)", "price": "269"
+        
+      },
+      {
+        "size": "Large (6 pieces)", "price": "399"
+        
+      },
+      {
+        "size": "Extra large (8 pieces)", "price": "529"
+        
+      }
+    ]
+  },
+  {
+    "dishname": "Hot Wings",
+    "description": "Spicy Fried Chicken Wings",
+    "details":
+    [
+      {
+        "size": "Small (4 pieces)", "price": "119"
+        
+      },
+      {
+        "size": "Medium (6 pieces)", "price": "169"
+        
+      },
+      {
+        "size": "Large (8 pieces)", "price": "239"
+        
+      }
+    ]
+  },
+  {
+    "dishname": "Korean Wings",
+    "description": "Korean Hot Sauce glazed Chicken Wings",
+    "details":
+    [
+      {
+        "size": "Small (4 pieces)", "price": "139"
+        
+      },
+      {
+        "size": "Medium (6 pieces)", "price": "189"
+        
+      },
+      {
+        "size": "Large (8 pieces)", "price": "249"
+        
+      }
+    ]
+  },
+{
+    "dishname": "Chicken Strips",
+    "description": "Boneless Chicken Strips",
+    "details":
+    [
+      {
+        "size": "Small (3 pieces)", "price": "119"
+        
+      },
+      {
+        "size": "Medium (6 pieces)", "price": "229"
+        
+      },
+      {
+        "size": "Large (9 pieces)", "price": "339"
+        
+      }
+    ]
+  },
+{
+    "dishname": "Chicken Popcorn",
+    "description": "Popcorn",
+    "details":
+    [
+      {
+        "size": "regular", "price": "99"
+        
+      },
+      {
+        "size": "Large", "price": "149"
+        
+      }
+    ]
+  },
+   {
+    dishname: "French Fries",
+    description: "",
+    details: [
+      {
+        size: "small",
+        price: "65",
+      },
+      {
+        size: "large",
+        price: "90",
+      },
+    ],
+  },
+  {
+    dishname: "Peri Peri Fries",
+    description: "Fries Sprinkled with a Peri Peri Spice Mix",
+    details: [
+      {
+        size: "small",
+        price: "75",
+      },
+      {
+        size: "large",
+        price: "95",
+      },
+    ],
+  },
+  {
+    dishname: "Chicken Nuggets",
+    description:
+      "Flavoured Minced Chicken formed into bite sized portions and fried",
+    details: [
+      {
+        size: "small",
+        price: "90",
+      },
+      {
+        size: "large",
+        price: "140",
       },
     ],
   },
