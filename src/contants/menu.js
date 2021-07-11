@@ -562,30 +562,38 @@ export const menu = [
     ]
   },
   {
-    dishname: "Chicken Burger",
+    dishname: "Snacker Burger",
     description: "",
     details: [
       {
-        size: "single",
         price: "139",
-      },
-      {
-        size: "double",
-        price: "189",
       },
       ]
   },
       {
     dishname: "Zinger Burger",
-    description: "Spicy Chicken Burger",
+    description: "",
     details: [
       {
-        size: "single",
         price: "159",
       },
+      ]
+   },
+   {
+    dishname: "Tower Burger",
+    description: "Double Patty",
+    details: [
       {
-        size: "double",
-        price: "219",
+        price: "179",
+      },
+      ]
+   },
+   {
+    dishname: "Squisito Special",
+    description: "Special Ingredients",
+    details: [
+      {
+        price: "199",
       },
       ]
    },
@@ -647,4 +655,130 @@ export const menu = [
       },
     ],
   },
+   {
+    dishname: "Mango Shake",
+    description: "",
+    details: [
+      {
+        price: "99",
+      },
+      ]
+   },
+  {
+    dishname: "Strawbery Shake",
+    description: "",
+    details: [
+      {
+        price: "99",
+      },
+      ]
+   },
+  {
+    dishname: "Vanilla Shake",
+    description: "",
+    details: [
+      {
+        price: "99",
+      },
+      ]
+   },
+   {
+    dishname: "Orange Shake",
+    description: "",
+    details: [
+      {
+        price: "99",
+      },
+      ]
+   },
+  {
+    dishname: "Butterscotch Shake",
+    description: "",
+    details: [
+      {
+        price: "119",
+      },
+      ]
+   },
+   {
+    dishname: "Oreo Shake",
+    description: "",
+    details: [
+      {
+        price: "119",
+      },
+      ]
+   },
+   {
+    dishname: "KitKat Shake",
+    description: "",
+    details: [
+      {
+        price: "119",
+      },
+      ]
+   },
+   {
+    dishname: "Virgin Mojito",
+    description: "",
+    details: [
+      {
+        price: "169",
+      },
+      ]
+   },
+   {
+    dishname: "Lemonade",
+    description: "",
+    details: [
+      {
+        price: "69",
+      },
+      ]
+   },
+   {
+    dishname: "Iced Tea",
+    description: "",
+    details: [
+      {
+        price: "99",
+      },
+      ]
+   },
+  {
+    dishname: "Lemon Blue Mocktail",
+    description: "",
+    details: [
+      {
+        price: "189",
+      },
+      ]
+   },
+   {
+    dishname: "Strawberry Mocktail",
+    description: "",
+    details: [
+      {
+        price: "189",
+      },
+      ]
+   },
+   {
+    dishname: "Green Apple Mocktail",
+    description: "",
+    details: [
+      {
+        price: "189",
+      },
+      ]
+   },
+   {
+    dishname: "Black Currant Mocktail",
+    description: "",
+    details: [
+      {
+        price: "189",
+      },
+      ]
+   }
 ];
