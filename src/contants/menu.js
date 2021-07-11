@@ -573,6 +573,8 @@ export const menu = [
         size: "double",
         price: "189",
       },
+      ]
+  },
       {
     dishname: "Zinger Burger",
     description: "",
@@ -585,7 +587,9 @@ export const menu = [
         size: "medium",
         price: "219",
       },
-{
+      ]
+   },
+   {
     "dishname": "Chicken Popcorn",
     "description": "Popcorn",
     "details":
