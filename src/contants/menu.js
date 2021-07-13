@@ -456,7 +456,7 @@ export const menu = [
     "details":
     [
       {
-      price: "129"
+      price: "169"
         
       }
     ]
@@ -467,7 +467,7 @@ export const menu = [
     "details":
     [
       {
-       price: "129"
+       price: "189"
       }
     ]
   },
@@ -477,7 +477,7 @@ export const menu = [
     "details":
     [
       {
-        price: "119"
+        price: "169"
       }
     ]
   },
@@ -487,19 +487,19 @@ export const menu = [
     "details":
     [
       {
-        "size": "Small (2 pieces)", "price": "139"
+        "size": "Small (2 pieces)", "price": "159"
         
       },
       {
-        "size": "Medium (4 pieces)", "price": "269"
+        "size": "Medium (4 pieces)", "price": "299"
         
       },
       {
-        "size": "Large (6 pieces)", "price": "399"
+        "size": "Large (6 pieces)", "price": "439"
         
       },
       {
-        "size": "Extra large (8 pieces)", "price": "529"
+        "size": "Extra large (8 pieces)", "price": "569"
         
       }
     ]
@@ -510,15 +510,10 @@ export const menu = [
     "details":
     [
       {
-        "size": "Small (4 pieces)", "price": "119"
-        
-      },
+        "size": "Regular (5 pieces)", "price": "149"
+       },
       {
-        "size": "Medium (6 pieces)", "price": "169"
-        
-      },
-      {
-        "size": "Large (8 pieces)", "price": "239"
+        "size": "Large (10 pieces)", "price": "299"
         
       }
     ]
@@ -529,15 +524,11 @@ export const menu = [
     "details":
     [
       {
-        "size": "Small (4 pieces)", "price": "139"
+        "size": "Regular (5 pieces)", "price": "179"
         
       },
       {
-        "size": "Medium (6 pieces)", "price": "189"
-        
-      },
-      {
-        "size": "Large (8 pieces)", "price": "249"
+        "size": "Large (10 pieces)", "price": "349"
         
       }
     ]
@@ -566,7 +557,7 @@ export const menu = [
     description: "",
     details: [
       {
-        price: "139",
+        price: "99",
       },
       ]
   },
@@ -575,7 +566,7 @@ export const menu = [
     description: "",
     details: [
       {
-        price: "159",
+        price: "149",
       },
       ]
    },
@@ -641,17 +632,17 @@ export const menu = [
     ],
   },
   {
-    dishname: "Chicken Nuggets",
+    dishname: "Nuggets",
     description:
       "Flavoured Minced Chicken formed into bite sized portions and fried",
     details: [
       {
-        size: "small",
-        price: "89",
+        size: "Veg",
+        price: "99",
       },
       {
-        size: "large",
-        price: "139",
+        size: "Chicken",
+        price: "199",
       },
     ],
   },
@@ -660,7 +651,7 @@ export const menu = [
     description: "",
     details: [
       {
-        price: "99",
+        price: "149",
       },
       ]
    },
@@ -669,7 +660,7 @@ export const menu = [
     description: "",
     details: [
       {
-        price: "99",
+        price: "149",
       },
       ]
    },
@@ -678,7 +669,7 @@ export const menu = [
     description: "",
     details: [
       {
-        price: "99",
+        price: "149",
       },
       ]
    },
@@ -687,7 +678,7 @@ export const menu = [
     description: "",
     details: [
       {
-        price: "99",
+        price: "149",
       },
       ]
    },
@@ -696,7 +687,7 @@ export const menu = [
     description: "",
     details: [
       {
-        price: "119",
+        price: "149",
       },
       ]
    },
@@ -705,7 +696,7 @@ export const menu = [
     description: "",
     details: [
       {
-        price: "119",
+        price: "149",
       },
       ]
    },
@@ -714,7 +705,7 @@ export const menu = [
     description: "",
     details: [
       {
-        price: "119",
+        price: "149",
       },
       ]
    },
@@ -723,7 +714,7 @@ export const menu = [
     description: "",
     details: [
       {
-        price: "169",
+        price: "99",
       },
       ]
    },
@@ -741,7 +732,7 @@ export const menu = [
     description: "",
     details: [
       {
-        price: "99",
+        price: "69",
       },
       ]
    },
@@ -750,7 +741,7 @@ export const menu = [
     description: "",
     details: [
       {
-        price: "189",
+        price: "99",
       },
       ]
    },
@@ -759,7 +750,7 @@ export const menu = [
     description: "",
     details: [
       {
-        price: "189",
+        price: "99",
       },
       ]
    },
@@ -768,7 +759,7 @@ export const menu = [
     description: "",
     details: [
       {
-        price: "189",
+        price: "99",
       },
       ]
    },
@@ -777,7 +768,7 @@ export const menu = [
     description: "",
     details: [
       {
-        price: "189",
+        price: "99",
       },
       ]
    }
