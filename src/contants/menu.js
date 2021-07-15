@@ -589,6 +589,24 @@ export const menu = [
       ]
    },
    {
+    dishname: "Veg Sandwich",
+    description: "",
+    details: [
+      {
+        price: "59",
+      },
+      ]
+   },
+   {
+    dishname: "Chicken Sandwich",
+    description: "",
+    details: [
+      {
+        price: "89",
+      },
+      ]
+   },
+   {
     "dishname": "Chicken Popcorn",
     "description": "Popcorn",
     "details":
